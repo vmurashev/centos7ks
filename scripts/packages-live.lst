@@ -1,0 +1,9 @@
+@core
+@base
+kernel
+grub2
+efibootmgr
+shim-x64
+grub2-efi-x64
+mc
+open-vm-tools
